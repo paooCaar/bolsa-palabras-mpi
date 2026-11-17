@@ -66,3 +66,8 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+#ignorar el directorio bin y el archivo hola_mpi y todos los archivos csv
+bin/
+hola_mpi
+*.csv
